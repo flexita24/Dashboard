@@ -86,7 +86,7 @@
     padding-top: 17px;
     padding-bottom: 18px;
     padding-right: 107px;
-    font-family: 'Poppins';
+    font-family: 'Poppins Regular';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -120,7 +120,7 @@ top: 510px;
 position: absolute;
 top: 378px;
 left: 80px;
-font-family: 'Poppins';
+font-family: 'Poppins Regular';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
@@ -135,7 +135,7 @@ color: #707070;
     left: 80px;
     top: 443px;
     
-    font-family: 'Poppins';
+    font-family: 'Poppins Regular';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -152,7 +152,7 @@ color: #707070;
     left: 80px;
     top: 502px;
     
-    font-family: 'Poppins';
+    font-family: 'Poppins Regular';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -180,7 +180,7 @@ color: #707070;
     left: 7px;
     top: 3px;
     right: 7px;
-    font-family: 'Roboto';
+    font-family: 'Roboto',sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -207,7 +207,7 @@ color: #707070;
     left: 7px;
     top: 3px;
     right: 7px;
-    font-family: 'Roboto';
+    font-family: 'Roboto',sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -287,4 +287,169 @@ justify-content: space-around;
 .tillbox6{
 display: flex;
 justify-content: space-around;
+}
+.h7{
+    position: absolute;
+    width: 113px;
+    height: 33px;
+    left: 57px;
+    top: 150px;
+    
+    font-family: 'Poppins Regular';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 33px;
+    /* identical to box height, or 194% */
+    
+    
+    color: #00302E;
+}
+.h8{
+    position: absolute;
+    width: 113px;
+    height: 33px;
+    left: 57px;
+    top: 150px;
+    
+    font-family: 'Poppins Regular';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 33px;
+    /* identical to box height, or 194% */
+    
+    
+    color: #00302E;
+}
+.h9{
+    position: absolute;
+    width: 113px;
+    height: 33px;
+    left: 57px;
+    top: 150px;
+    
+    font-family: 'Poppins Regular';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 33px;
+    /* identical to box height, or 194% */
+    
+    
+    color: #00302E;
+}
+.h4{
+    position: absolute;
+    width: 113px;
+    height: 33px;
+    left: 57px;
+    top: 150px;
+    
+    font-family: 'Poppins Regular';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 33px;
+    /* identical to box height, or 194% */
+    
+    
+    color: #00302E;
+}
+.h5{
+    position: absolute;
+    width: 113px;
+    height: 33px;
+    left: 57px;
+    top: 150px;
+    
+    font-family: 'Poppins Regular';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 33px;
+    /* identical to box height, or 194% */
+    
+    
+    color: #00302E;
+}
+.h6{
+    position: absolute;
+    width: 113px;
+    height: 33px;
+    left: 57px;
+    top: 150px;
+    
+    font-family: 'Poppins Regular';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 33px;
+    /* identical to box height, or 194% */
+    
+    
+    color: #00302E;
+}
+.p1{
+    position: absolute;
+    width: 172px;
+    height: 42px;
+    left: 34px;
+    top: 187px;
+    
+    font-family: 'Poppins Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 21px;
+    /* or 191% */
+    
+    text-align: center;
+    
+    color: rgba(0, 0, 0, 0.69);
+}
+.price1{
+    position: absolute;
+    width: 68px;
+    height: 33px;
+    left: 29px;
+    top: 251px;
+    
+    font-family: 'Poppins Regular';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 33px;
+    /* identical to box height, or 254% */
+    
+    
+    color: #00302E;
+}
+.button1{
+    position: absolute;
+    width: 73px;
+    height: 33px;
+    left: 153px;
+    top: 251px;
+    
+    font-family: 'Poppins Regular';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 33px;
+    /* identical to box height, or 254% */
+    
+    text-align: right;
+    
+    color: #06E775;
+}
+.rasm1{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    left: 68px;
+    top: 47px;
+    
+    background: url(ben-kim-JjzjBLmANVA-unsplash.jpg);
+    border-radius: 400px;
 }
